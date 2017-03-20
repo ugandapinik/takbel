@@ -31,12 +31,10 @@ class CustomerController extends Controller{
                         . '</tr>';
                 }
 
-            }else{
-                $output .= '<tr><td>NO Data Found.</td></tr>';
+                return Response($output);
             }
 
 
-            return Response($output);
         }//end if
 
     }
