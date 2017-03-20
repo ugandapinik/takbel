@@ -1,0 +1,10 @@
+.fresh-table.full-color-orange {
+    background: rgba(0, 0, 0, 0) radial-gradient(ellipse at center center , #ff5221 0%, #ffb33b 100%) repeat scroll 0 0 / cover ;
+    height: 100% !important;
+    position: fixed;
+    width: 100%;
+}
+
+.container{
+    margin-top: 100px;
+}
