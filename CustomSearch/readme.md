@@ -1,6 +1,13 @@
 ## Project DEMO
 ![yfqjewocpw](https://cloud.githubusercontent.com/assets/13005159/24101931/5bdfbd44-0da4-11e7-9199-680d3d24ec17.gif)
 
+####Clone Project
+
+
+```sh
+git clone https://github.com/prabhakar267/library-management-system.git
+cd library-management-system
+```
 
 
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
